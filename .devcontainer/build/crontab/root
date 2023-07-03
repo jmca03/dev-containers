@@ -1,0 +1,2 @@
+* * * * * cd /workspace/example-app && php artisan schedule:run >> /var/log/cron.log
+* * * * * echo "Hello" >> /workspace/cron.txt
